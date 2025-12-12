@@ -23,7 +23,7 @@ The case was designed in Fusion. Both sides of the case are based on the same fo
 <img width="394" height="342" alt="Screenshot 2025-12-12 134156" src="https://github.com/user-attachments/assets/ac4336d5-e7d8-487a-9085-ac678daa6939" />
 
 # Firmware
-As mentioned above, the firmware is written in python using the KMK Libraries.
+As mentioned above, the firmware is written in python using the KMK Libraries. It will be pushed to the microcontroller using circuit python.
 
 # BOM
 
