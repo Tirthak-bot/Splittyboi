@@ -7,6 +7,11 @@ Note: Couldn't get the render with all the parts together because my laptop kept
 This is the schematic for a single side, both sides are made identically.
 <img width="979" height="522" alt="Screenshot 2025-12-12 141900" src="https://github.com/user-attachments/assets/5943f881-8383-4003-9961-4293534d74a1" />
 
+# Layout
+The layout was designed on https://www.keyboard-layout-editor.com/, The firmware hasn't yet been edited to match this layout and is currently sitting with placeholders.
+<img width="852" height="358" alt="Screenshot 2025-12-08 145546" src="https://github.com/user-attachments/assets/a2b045e3-95ad-4469-b070-cdb056cac2ad" />
+
+
 # PCB
 The PCB was designed in Kicad. The matrix wasn't properly aligned to make the look of the PCB More intresting, it will be coded in properly afterwards.
 <img width="1172" height="516" alt="Screenshot 2025-12-10 205500" src="https://github.com/user-attachments/assets/8e9e1b33-0806-4f8d-a38c-48ddb7c8c56d" />
