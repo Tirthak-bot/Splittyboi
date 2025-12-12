@@ -27,5 +27,15 @@ As mentioned above, the firmware is written in python using the KMK Libraries. I
 
 # BOM
 
-[BOM.csv](https://github.com/user-attachments/files/24123811/BOM.csv)
+<img width="1333" height="221" alt="image" src="https://github.com/user-attachments/assets/992f687e-2d59-4528-9255-3a046401ac76" />
+The Links:
 
+Seeed XIAO nRF52840 : https://robocraze.com/products/seeed-studio-xiao-nrf52840-development-board-supports-bluetooth-5-0
+
+Gateron LP 2.0 Switches : https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-low-profile-2-0-mechanical-switch-3pin/
+
+Blank DSA Keycaps 1U : https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank-dsa-keycaps-1u/
+
+3.7V LiPo Batteries : https://quartzcomponents.com/products/3-7v-1000mah-li-po-rechargeable-battery
+
+1N4148WS T4 Switching Diode : https://quartzcomponents.com/collections/smd-diodes/products/1n4148ws-t4-switching-diode-sod-123-smd-package
