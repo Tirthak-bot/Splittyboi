@@ -41,7 +41,7 @@ Blank DSA Keycaps 1U : https://meckeys.com/shop/accessories/keyboard-accessories
 1N4148WS T4 Switching Diode : https://quartzcomponents.com/collections/smd-diodes/products/1n4148ws-t4-switching-diode-sod-123-smd-package
 
 For the reviewer:
-The shipping option i chose on JLCPCB:
+The shipping option i chose on JLCPCB & also please even though my total comes out to $95 could you please allocate me funds upto $100 - $105 because sometimes JLCPCB classifies my location as a remote place and charges extra. once again sorry. 
 
 <img width="758" height="595" alt="Screenshot_20251225-093345 (1)" src="https://github.com/user-attachments/assets/a40b42da-5cef-4b60-a4c6-2e08ec84051b" />
 
