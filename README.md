@@ -39,3 +39,9 @@ Blank DSA Keycaps 1U : https://meckeys.com/shop/accessories/keyboard-accessories
 3.7V LiPo Batteries : https://quartzcomponents.com/products/3-7v-1000mah-li-po-rechargeable-battery
 
 1N4148WS T4 Switching Diode : https://quartzcomponents.com/collections/smd-diodes/products/1n4148ws-t4-switching-diode-sod-123-smd-package
+
+For the reviewer:
+The shipping option i chose on JLCPCB:
+
+<img width="758" height="595" alt="Screenshot_20251225-093345 (1)" src="https://github.com/user-attachments/assets/a40b42da-5cef-4b60-a4c6-2e08ec84051b" />
+
