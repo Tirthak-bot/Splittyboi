@@ -45,3 +45,5 @@ The shipping option i chose on JLCPCB:
 
 <img width="758" height="595" alt="Screenshot_20251225-093345 (1)" src="https://github.com/user-attachments/assets/a40b42da-5cef-4b60-a4c6-2e08ec84051b" />
 
+Also for other websites there was either free shipping or a fixed shipping cost of $1.5 - $2
+
