@@ -1,7 +1,8 @@
 # Splittyboi
-A Split keyboard with low profile switches,Coded with KMK Firmware.
+A Split keyboard with low profile switches, Coded with KMK Firmware.
+<img width="1366" height="573" alt="aaaccf00-8f38-4780-8aac-84fafe32f10c" src="https://github.com/user-attachments/assets/7a59c1a9-91ba-46a1-8e8d-a363c52e3a85" />
+<img width="1366" height="573" alt="Split_keeb_final_assembly_2026-Apr-11_02-27-00PM-000_CustomizedView4654158383" src="https://github.com/user-attachments/assets/fb4d8b7c-7075-4265-a7b8-42815815bce4" />
 
-Note: Couldn't get the render with all the parts together because my laptop kept crashing trying to load in all the parts in the same file. [ It has 4 gigs of RAM so please forgive it :) ]
 
 # Schematic
 This is the schematic for a single side, both sides are made identically.
