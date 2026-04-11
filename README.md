@@ -20,6 +20,9 @@ The PCB was designed in Kicad. The matrix wasn't properly aligned to make the lo
 
 # Case
 The case was designed in Fusion. Both sides of the case are based on the same footprint but once it is extruded in the positive axis and once in negetive axis to get a identical case accommodating both right and left sides.
+
+You just drop the pcb in place :)
+
 <img width="526" height="381" alt="Screenshot 2025-12-12 134242" src="https://github.com/user-attachments/assets/6332d1f6-68be-4e72-b4e0-ffecc0fdff05" />
 <img width="394" height="342" alt="Screenshot 2025-12-12 134156" src="https://github.com/user-attachments/assets/ac4336d5-e7d8-487a-9085-ac678daa6939" />
 
