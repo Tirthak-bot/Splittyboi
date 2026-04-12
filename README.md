@@ -5,6 +5,11 @@ A Split keyboard with low profile switches, Coded with KMK Firmware.
 <img width="476.855" height="400" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/e0057221-b03b-4537-b2a0-e4b139ad9b9c" />
 
 
+Making this because i want to try a split keeb :3
+
+Using this is pretty straight forward obviously blehh, just connect it to the computer, flash the firmware once and it should just work like a regular keeb moving forward :)
+
+
 
 # Schematic
 This is the schematic for a single side, both sides are made identically.
@@ -18,7 +23,7 @@ The layout was designed on https://www.keyboard-layout-editor.com/, The firmware
 
 
 # PCB
-The PCB was designed in Kicad. The matrix wasn't properly aligned to make the look of the PCB More intresting, it will be coded in properly afterwards.
+The PCB was designed in Kicad. The matrix wasn't properly aligned to make the look of the PCB More intresting, it will be coded in properly afterwards (Once I make it IRL).
 
 <img width="908.52" height="400" alt="Screenshot 2025-12-10 205500" src="https://github.com/user-attachments/assets/8e9e1b33-0806-4f8d-a38c-48ddb7c8c56d" />
 <img width="986.85" height="400" alt="Screenshot 2025-12-10 205553" src="https://github.com/user-attachments/assets/3a9efc3f-3d46-40cc-9621-6be8b1f2a20e" />
