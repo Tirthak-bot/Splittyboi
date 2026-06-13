@@ -9,6 +9,8 @@ Making this because i want to try a split keeb :3
 
 Using this is pretty straight forward obviously blehh, just connect it to the computer, flash the firmware once and it should just work like a regular keeb moving forward :)
 
+(The Zine Doesn't Have my name by choice)
+
 
 
 # Schematic
