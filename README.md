@@ -33,6 +33,8 @@ The case was designed in Fusion. Both sides of the case are based on the same fo
 
 You just drop the pcb in place :) and for the both halfs of the case, they join using magnets!
 
+The magnets are glue and drop, not press fit! So the thin walls around the magnet holes won't cause any problems!
+
 
 <img width="1366" height="573" alt="Split_keeb_final_assembly_2026-Jun-13_07-47-10AM-000_CustomizedView16534653009" src="https://github.com/user-attachments/assets/f26ff9a4-9aaa-48ad-89bb-86868efa6049" />
 
