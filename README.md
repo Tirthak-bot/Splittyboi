@@ -31,30 +31,23 @@ The PCB was designed in Kicad. The matrix wasn't properly aligned to make the lo
 # Case
 The case was designed in Fusion. Both sides of the case are based on the same footprint but once it is extruded in the positive axis and once in negetive axis to get a identical case accommodating both right and left sides.
 
-You just drop the pcb in place :)
+You just drop the pcb in place :) and for the both halfs of the case, they join using magnets!
 
-<img width="526" height="381" alt="Screenshot 2025-12-12 134242" src="https://github.com/user-attachments/assets/6332d1f6-68be-4e72-b4e0-ffecc0fdff05" />
-<img width="438.93" height="381" alt="Screenshot 2025-12-12 134156" src="https://github.com/user-attachments/assets/ac4336d5-e7d8-487a-9085-ac678daa6939" />
+
+<img width="1366" height="573" alt="Split_keeb_final_assembly_2026-Jun-13_07-47-10AM-000_CustomizedView16534653009" src="https://github.com/user-attachments/assets/f26ff9a4-9aaa-48ad-89bb-86868efa6049" />
 
 # Firmware
 As mentioned above, the firmware is written in python using the KMK Libraries. It will be pushed to the microcontroller using circuit python.
 
 # BOM
-
-<img width="1333" height="221" alt="image" src="https://github.com/user-attachments/assets/992f687e-2d59-4528-9255-3a046401ac76" />
-The Links:
-
-JLCPCB: The Cheapest shipping option (E - Post) ; Tho the total keeps fluctuating Between 25 - 40 USD Sobb.
-
-Seeed XIAO nRF52840 : https://robocraze.com/products/seeed-studio-xiao-nrf52840-development-board-supports-bluetooth-5-0
-
-Gateron LP 2.0 Switches : https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-low-profile-2-0-mechanical-switch-3pin/
-
-Blank DSA Keycaps 1U : https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank-dsa-keycaps-1u/
-
-3.7V LiPo Batteries : https://quartzcomponents.com/products/3-7v-1000mah-li-po-rechargeable-battery
-
-1N4148WS T4 Switching Diode : https://quartzcomponents.com/collections/smd-diodes/products/1n4148ws-t4-switching-diode-sod-123-smd-package
-
-Also for other websites there was either free shipping or a fixed shipping cost of $1.5 - $2
-
+|SR.NO|ITEMS|QUANTITY|UNIT PRICE|TOTAL PRICE|URL|
+|-----|-----|--------|-----------|-----------|---|
+|1|PCB (From JLCPCB)|5 (Minimun)|$10 (Including Shipping)|$50|In my Cart|
+|2|Seeed XIAO nRF52840|2 (One for each side)|$12.50 (Including Shipping)|$25|https://robocraze.com/products/seeed-studio-xiao-nrf52840-development-board-supports-bluetooth-5-0|
+|3|Gateron LP 2.0 Switches|70|$0.185 (Including Shipping)|$13|https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/gateron-low-profile-2-0-mechanical-switch-3pin/|
+|4|Blank DSA Keycaps 1U|70|$0.207 (Including Shipping)|$14.5|https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank-dsa-keycaps-1u/|
+|5|3.7V LiPo Batteries|2 (One for each side)|$1.615 (Including Shipping)|$3.23|https://quartzcomponents.com/products/3-7v-1000mah-li-po-rechargeable-battery|
+|6|1N4148WS T4 Switching Diode|70|$0.025 (Including Shipping)|$1.78|https://quartzcomponents.com/collections/smd-diodes/products/1n4148ws-t4-switching-diode-sod-123-smd-package|
+|7|3D Prints|4 Files|idk|idk|Self printed|
+|8|Magnets|14|$0|$0|Self sourced|
+|Total:|||-|$110||
