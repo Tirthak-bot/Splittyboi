@@ -1,7 +1,7 @@
 # Splittyboi
 A Split keyboard with low profile switches, Coded with KMK Firmware.
 
-<img width="286.0" height="400.0" alt="S (3)" src="https://github.com/user-attachments/assets/7630e832-db2c-4b60-803f-871930fdf949" />
+<img width="286.0" height="400.0" alt="Split keeb Zine Page" src="https://github.com/user-attachments/assets/d236c32e-1033-4947-9b12-0187164524aa" />
 <img width="476.855" height="400" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/e0057221-b03b-4537-b2a0-e4b139ad9b9c" />
 
 
